@@ -8,8 +8,8 @@
   "relatedConcepts": [],
   "diagrams": [
     {
-      "title": "Diagram 1",
-      "diagramCode": "```mermaid\ngraph TD;\n    A-->B;\n```"
+      "title": "Diagram 1 modified",
+      "diagramCode": "```mermaid\ngraph TD;\n    A-->B;\n    A-->C;\n```"
     },
     {
       "title": "Diagram 2",
