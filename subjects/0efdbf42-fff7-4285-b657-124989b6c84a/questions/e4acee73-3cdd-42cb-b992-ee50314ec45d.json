@@ -1,0 +1,19 @@
+{
+  "id": "e4acee73-3cdd-42cb-b992-ee50314ec45d",
+  "question": "Question1",
+  "notes": "",
+  "subjectId": "0efdbf42-fff7-4285-b657-124989b6c84a",
+  "potentialReplies": [],
+  "potentialKeyConsiderations": [],
+  "relatedConcepts": [],
+  "diagrams": [
+    {
+      "title": "Diagram 1",
+      "diagramCode": "```mermaid\ngraph TD;\n    A-->B;\n```"
+    },
+    {
+      "title": "Diagram 2",
+      "diagramCode": "```mermaid\ngraph TD;\n    A-->B;\n    B-->C;\n```"
+    }
+  ]
+}
